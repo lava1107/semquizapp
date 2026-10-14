@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+.git
+.github
+.env
+.env.*
+!.env.example
+dist
+converage
+.vscode
+.DS_Store
+Dockerfile
+.dockerignore
